@@ -1,0 +1,22 @@
+body {
+    background-image: linear-gradient(to right, #1a33c2, #070d5e);
+
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #a5a5a533;
+}
+
+
+
+.container {
+    margin-top: 20px;
+
+}
+
+.btn-white {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.btn-white:hover {
+    background-color: #c4c4c4d0;
+}
